@@ -9,7 +9,7 @@ public class Main {
       num /= 10;
       ++count;
     }
-
+//adding some line to chek fit fetch and git pull affect.
     System.out.println("Number of digits: " + count);
   }
 }
